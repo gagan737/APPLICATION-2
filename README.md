@@ -49,11 +49,11 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
    ```
    
 4. to view in local server
-   ''' bash
+   ``` bash
    npm install http-server -g
    cd /project directory
    npx http-server
-   '''
+   ```
    typically- http://127.0.0.1:8080
    
 
