@@ -1,5 +1,5 @@
                                                      HOSTED LINK- https://gagan737.github.io/APPLICATION-2
-                                                                 https://gagan737.github.io/APPLICATION-2
+                                                                
 
 # Weather Data Retrieval and Analysis System
 
